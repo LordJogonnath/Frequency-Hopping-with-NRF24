@@ -1,2 +1,4 @@
-# Frequency-Hopping-with-NRF24
-This contains the Arduino code that I used for establishing frequency hopping in the two NRF modules.
+# NRF24-Work
+This contains the Arduino codes I've used to establish
+1. Frequency hopping for two NRF24 modules.
+2. Obtaining distance data from an ultrasonic sensor
